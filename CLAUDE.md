@@ -5,14 +5,14 @@ Claude Code marketplace for dixie's information system. Design in
 
 ## Public repo
 
-- Never name a client, organization other than `dixie6502`, host, email or
+- Never name a client, organization other than `dixie6502` and `nodataxyz`, host, email or
   person. Use placeholders (`<owner>`, `<hostname>`). Only exception: the
   `LICENSE` copyright line for `alxn0`, required for the code copied from kit.
 - `pre-commit` (gitleaks included) passes before every commit.
 
 ## Git
 
-Own repo: commit and push directly to `main` once all checks pass.
+Commit and push directly to `main` once all checks pass.
 
 ## Layout
 

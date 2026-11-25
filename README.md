@@ -14,7 +14,7 @@ Design: [`ARCHITECTURE.md`](ARCHITECTURE.md).
 ## Install
 
 ```
-claude plugin marketplace add dixie6502/mneme
+claude plugin marketplace add nodataxyz/mneme
 claude plugin install memex@mneme     # memory: log, knowledge, backup
 ```
 
